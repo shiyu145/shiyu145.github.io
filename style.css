@@ -45,9 +45,10 @@ h3{
        margin:auto;
        text-align: center;
 	}
-
-
-
+.p1{
+	width: 800;
+       margin:auto;
+}
 body{
 	font-family: "方正舒体";
     font-size: 1.5em
