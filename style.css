@@ -1,0 +1,56 @@
+a{
+	text-decoration-line: none;
+	color: black;
+}
+a:hover{
+	background-color: green
+}
+p{
+	text-indent: 2em
+}
+.p1{
+	text-decoration-line: line-through;
+	text-decoration-color: red;
+}
+h5{
+	text-align: center
+}
+h2{
+	text-align: center
+}
+.img5{
+	text-align: center
+}
+.img0{
+	text-align: center
+}
+.img1{
+	text-align: center
+}
+.img2{
+	text-align: center
+}
+.img3{
+	text-align: center
+}
+.img4{
+	text-align: center;
+}
+h3{
+	text-align: center
+}
+	.box0{
+		width: 800px;
+       margin: auto;
+       text-align: center
+	}
+
+
+.box{
+	width: 800px;
+	margin: auto;
+}
+body{
+	font-family: "方正舒体";
+    font-size: 1.5em
+}
