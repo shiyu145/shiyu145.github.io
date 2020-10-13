@@ -5,13 +5,14 @@ a{
 a:hover{
 	background-color: green
 }
-p{
-	text-indent: 2em
-}
 .p1{
 	text-decoration-line: line-through;
 	text-decoration-color: red;
 }
+p{
+	text-indent: 2em
+}
+
 h5{
 	text-align: center
 }
