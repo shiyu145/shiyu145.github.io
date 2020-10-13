@@ -42,14 +42,14 @@ h3{
 }
 	.box0{
 		width: 900px;
-       
+       margin:auto;
        text-align: center;
 	}
 
 
 .box{
-	width: 800px;
-	marge: auto;
+	width: 900px;
+	margin: auto;
 }
 body{
 	font-family: "方正舒体";
